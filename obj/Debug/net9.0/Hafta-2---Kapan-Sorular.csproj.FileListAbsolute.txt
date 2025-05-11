@@ -1,0 +1,15 @@
+C:\Users\Administrator\Patika+ C#\Hafta-2---Kapan-Sorular\obj\Debug\net9.0\Hafta-2---Kapan-Sorular.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Patika+ C#\Hafta-2---Kapan-Sorular\obj\Debug\net9.0\Hafta-2---Kapan-Sorular.AssemblyInfoInputs.cache
+C:\Users\Administrator\Patika+ C#\Hafta-2---Kapan-Sorular\obj\Debug\net9.0\Hafta-2---Kapan-Sorular.AssemblyInfo.cs
+C:\Users\Administrator\Patika+ C#\Hafta-2---Kapan-Sorular\obj\Debug\net9.0\Hafta-2---Kapan-Sorular.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Patika+ C#\Hafta-2---Kapan-Sorular\obj\Debug\net9.0\Hafta-2---Kapan-Sorular.sourcelink.json
+C:\Users\Administrator\Patika+ C#\Hafta-2---Kapan-Sorular\bin\Debug\net9.0\Hafta-2---Kapan-Sorular.exe
+C:\Users\Administrator\Patika+ C#\Hafta-2---Kapan-Sorular\bin\Debug\net9.0\Hafta-2---Kapan-Sorular.deps.json
+C:\Users\Administrator\Patika+ C#\Hafta-2---Kapan-Sorular\bin\Debug\net9.0\Hafta-2---Kapan-Sorular.runtimeconfig.json
+C:\Users\Administrator\Patika+ C#\Hafta-2---Kapan-Sorular\bin\Debug\net9.0\Hafta-2---Kapan-Sorular.dll
+C:\Users\Administrator\Patika+ C#\Hafta-2---Kapan-Sorular\bin\Debug\net9.0\Hafta-2---Kapan-Sorular.pdb
+C:\Users\Administrator\Patika+ C#\Hafta-2---Kapan-Sorular\obj\Debug\net9.0\Hafta-2---Kapan-Sorular.dll
+C:\Users\Administrator\Patika+ C#\Hafta-2---Kapan-Sorular\obj\Debug\net9.0\refint\Hafta-2---Kapan-Sorular.dll
+C:\Users\Administrator\Patika+ C#\Hafta-2---Kapan-Sorular\obj\Debug\net9.0\Hafta-2---Kapan-Sorular.pdb
+C:\Users\Administrator\Patika+ C#\Hafta-2---Kapan-Sorular\obj\Debug\net9.0\Hafta-2---Kapan-Sorular.genruntimeconfig.cache
+C:\Users\Administrator\Patika+ C#\Hafta-2---Kapan-Sorular\obj\Debug\net9.0\ref\Hafta-2---Kapan-Sorular.dll
